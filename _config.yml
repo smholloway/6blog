@@ -12,7 +12,7 @@ pygments: true
 title : 6blog.us
 tagline: Seth and Nix Blog
 author :
-  name : Seth Holloway
+  name : Seth Holloway and Nick Dollarhide
   email : seth+6blog@sethholloway.com
   github : smholloway
   twitter : sethholloway
@@ -81,7 +81,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : sixblogus
+      short_name : 6blog
     facebook :
       appid : 123
       num_posts: 5
