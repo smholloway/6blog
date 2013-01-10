@@ -1,8 +1,8 @@
 ---
 layout: post
 category: technology
-tags: []
-title: Title
+tags: [rendering, templates, software]
+title: Rendering
 ---
 {% include JB/setup %}
 
@@ -16,7 +16,6 @@ or
 Business logic vs rendering logic.
 A number of new templating systems make logic-less a feature, but what's so bad about logic in templates?
 Logic less to increase separation of concerns. Templates that can use logic allow business logic to leak into the templates.
-
 
 Reuse
 Is reuse always good?
