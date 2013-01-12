@@ -18,3 +18,22 @@ Google Analytics wasn't working, but that was not a new issue: https://github.co
 This was fixed by adding --safe to the Proc file.
 
 After cloning the Jekyll Bootstrap repository and getting things up and running, we altered the _config.yaml file. We have tweaked the theme and various generators, like atom.xml.
+
+## Pros
+Fast
+Modern
+Cross-platform
+Supported by Heroku and GitHub--two dev favorites
+Somewhat related to Heroku and GitHub, blogging this way is free
+Gaining traction (see ThoughtWorks Tech Radard 2012)
+It is not Java (see Java's recent secrurity mishaps)
+
+## Cons
+Lack of WYSIWYG editing
+Local installation and maintenance
+Ruby versioning can be a chore (ruby versions plus gems)
+Requires knowledge of several software systems including Git, Ruby, and general web stuff.
+
+## Use cases
+If you need (or want) WYSIWYG editing, Jekyll is not for you. The system is fast. I get the impression it is by hackers for hackers.
+You might also try Ruhoh, which is Jade Dominguez's new and improved static blogging platform.
