@@ -5,11 +5,9 @@ tagline:
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+Seth + Nick's Blog -- 6blog
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-
-## Read more
+Jump in and start reading!
 
 <ul class="posts">
   {% for post in site.posts %}
