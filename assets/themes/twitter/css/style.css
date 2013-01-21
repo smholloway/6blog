@@ -5,12 +5,11 @@ html, body {
   font-family: 'Cabin', Helvetica, Arial, sans-serif;
 }
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Ubuntu', Georgia, Times, serif;
+  font-family: 'Open Sans', Georgia, Times, serif;
   text-shadow: 1px 1px 1px #999;
   line-height: 150%;
 }
 body, p, div, span {
-  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 16px;
   line-height: 150%;
 }
