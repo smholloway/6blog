@@ -5,8 +5,13 @@ tagline:
 ---
 {% include JB/setup %}
 
-Seth + Nick's Blog -- 6blog
+## (Seth + Nix) Blog == 6blog
 
+[Seth Holloway](http://www.sethholloway.com/)
+
+[Nick Dollarhide](http://www.6blog.us/)
+
+## Posts
 Jump in and start reading!
 
 <ul class="posts">

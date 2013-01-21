@@ -1,9 +1,25 @@
 /* Override some defaults */
 html, body {
   background-color: #eee;
+  background: url(/assets/themes/twitter/bootstrap/img/ecailles.png) repeat 0 0;
+  font-family: 'Cabin', Helvetica, Arial, sans-serif;
 }
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lobster', Georgia, Times, serif;
+  text-shadow: 1px 1px 1px #999;
+  line-height: 150%;
+}
+body, p, div, span {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+}
+ 
 .navbar {
   margin-bottom: 0;
+}
+.navbar-inner {
+  border-radius: 0;
 }
 .container > footer {
   margin-top: 20px;
@@ -27,7 +43,8 @@ html, body {
 
 /* Page header tweaks */
 .page-header {
-  background-color: #f5f5f5;
+  background-color: #08c;
+  background-color: rgb(0, 110, 170);
   padding: 20px 20px 10px;
   margin: -20px -20px 20px;
 }
