@@ -1,7 +1,7 @@
 ---
 layout: post
 category: nonsense 
-tags: [jekyll, hello]
+tags: [random]
 title: Hello, World!
 author: Seth and Nick
 ---
