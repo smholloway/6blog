@@ -1,8 +1,8 @@
 ---
 layout: post
 category: technology
-tags: [jekyll]
-title: Blogging with Jekyll 
+tags: [jekyll, heroku]
+title: Blogging with Jekyll on Heroku
 ---
 {% include JB/setup %}
 
