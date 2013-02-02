@@ -3,6 +3,7 @@ layout: post
 category: technology
 tags: [jekyll, heroku]
 title: Blogging with Jekyll on Heroku
+author: Seth
 ---
 {% include JB/setup %}
 
