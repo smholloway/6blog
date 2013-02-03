@@ -19,8 +19,5 @@ So, polymorphism is the preferred OO way and it's faster!
 
 This result should make sense because the language is able to call the method directly without doing any sort of conditonal logic. Essentially, the ~10% difference we're seeing is the overhead of a conditional statement.
 
+If you're interested, please explore and comment on [the gist](https://gist.github.com/4703351) or play with [the repo](https://github.com/smholloway/miscellaneous/blob/master/ruby/is_polymorphism_faster/main.rb).
 
-
-And the code for anyone who is interested:
-
-<script src="https://gist.github.com/4703351.js"></script>
