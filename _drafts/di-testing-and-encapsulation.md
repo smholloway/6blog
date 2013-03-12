@@ -35,7 +35,7 @@ Version B:
 ```python
 class Thing(dataStore):
   def do(something):
-     otherThing = dataStore.get(something);
+    otherThing = dataStore.get(something);
 ```
 
 One of the many benefits of this pattern is that it makes thing 'testable.'
