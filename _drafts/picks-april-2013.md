@@ -13,4 +13,8 @@ author: Seth and Nick
  - [Excerpt from The Technical and Social History of Software Engineering](http://www.itmpi.org/Portals/10/PDF/Capers-2019.pdf). The new Capers Jones book looks interesting, but too academic for mass consumption. In this excerpt, Capers lays out 12 problems that he believes can be fixed by 2020. I like several of the points, particularly "12. Maintenance, enhancements, and renovation of legacy applications need more research."
 
 ### Nick
- - []().
+I'm picking people this month
+- [Nathn Marz](http://nathanmarz.com/) has been doing really great work in the Big Data space. He created [Storm](https://github.com/nathanmarz/storm), a real time Big Data solution, and opened sourced it in the middle of [this talk](http://www.infoq.com/presentations/Storm) which is awesome. He wrote a [book](http://www.manning.com/marz/) on what he's calling the 'Lambda Architecture' for Big Data. Check out his work!
+- [Pieter Hintjens](http://en.wikipedia.org/wiki/Pieter_Hintjens) is the creator of [0MQ](http://www.zeromq.org/) and the original author of the [AMQP](http://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol) standard. Check out his [talk](http://www.infoq.com/presentations/Architecture-Scale-ZeroMQ) where he is like a valcano of wisdom spewing insight like "Simplicity always beats functionality", "The physics of software is the physics of people", "Do nothing that is not a mininal, plausible answer to a well defined problem", and "Design by removing problems, not adding features". 
+
+
