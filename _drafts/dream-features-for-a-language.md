@@ -2,7 +2,7 @@
 layout: post
 category: technology
 tags: [programming languages, features]
-title: Title
+title: Features of a Dream Programming Language
 author: Seth and Nick
 ---
 {% include JB/setup %}
