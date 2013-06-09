@@ -2,7 +2,7 @@
 layout: post
 category: technology
 tags: [picks]
-title: Picks - May 2013
+title: Picks - June 2013
 author: Seth and Nick
 ---
 {% include JB/setup %}
