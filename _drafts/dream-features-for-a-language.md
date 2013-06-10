@@ -16,6 +16,7 @@ language we are using.
   - Namespaces
   - Named parameters
   - Default parameters
+  - String interpolation
   - Closures
   - Performance, which generally necessitates providing more information
     to the compiler; e.g., type information
