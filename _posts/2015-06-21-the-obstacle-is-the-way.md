@@ -7,7 +7,7 @@ author: Seth + Nick
 ---
 {% include JB/setup %}
 
-We read [The Obstacle is the Way by Ryan Holiday](http://www.amazon.com/The-Obstacle-Is-Way-Timeless/dp/1591846358/?tracking_id=6blog-20).
+We read [The Obstacle is the Way by Ryan Holiday](http://www.amazon.com/dp/1591846358/?tag=6blog-20).
 
 # Nick
 
