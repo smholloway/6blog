@@ -1,18 +1,13 @@
 ---
 layout: page
-title: Home
-tagline: 
+title: 6blog - Home of Nick and Seth's Learning Club
+tagline:
 ---
 {% include JB/setup %}
 
-## (Seth + Nix) Blog == 6blog
-
-[Seth Holloway](http://www.sethholloway.com/)
-
-[Nick Dollarhide](http://www.6blog.us/)
+We are passionate about learning, and we want to share our lessons learned. We hope you will find it valuable.
 
 ## Posts
-Jump in and start reading!
 
 <ul class="posts">
   {% for post in site.posts %}
