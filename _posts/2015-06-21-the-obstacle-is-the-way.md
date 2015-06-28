@@ -1,7 +1,7 @@
 ---
 layout: post
 category: learning
-tags: [learning]
+tags: []
 title: The Obstacle is the Way by Ryan Holiday
 author: Seth + Nick
 ---
@@ -28,11 +28,12 @@ We read [The Obstacle is the Way by Ryan Holiday](http://www.amazon.com/The-Obst
 * I liked that the chapters were short and digestible.
 
 ## Cons
-* I felt some of the arguments were ambiguous but made to sound exact. This is a common complaint I have about books. For instance, the persistent use of the word “right,” which is ambiguous but can be said in a way that makes it feel exact. After preaching what not to do he said, “Might as well do life right.”  It's hard to argue that we should do life right, but what is right? I’d like to see more clarification. 
+* I felt some of the arguments were ambiguous but made to sound exact. This is a common complaint I have about books. For instance, the persistent use of the word “right,” which is ambiguous but can be said in a way that makes it feel exact. After preaching what not to do he said, “Might as well do life right.”  It's hard to argue that we should do life right, but what is right? I’d like to see more clarification.
 * A lot of the stories were retrofitted to his arguments--attributing things in a vacuum; for example, it is impossible to say that the inside of the iPhone is beautiful because Steve Jobs cared about craft. There are too many variables to say that definitively, but it makes for a great story. Who knows if Jobs had anything to do with it? It could have been the engineers or other designers. People like Steve Jobs have greatness attributed to them when it took way more than one person.
 
 # Seth
 Overall, this was a worthwhile read. I’d summarize the content by saying that you should make the most of any situation. (Perhaps the book’s value comes is in defining this good attitude and showing how several successful people apply the principle.)
+
 ## Takeaways
 * Ryan Holiday is an impressive person; he’s written three well reviewed books by age 26. He seems to have the formula down.
 * Hundreds of people have independently discovered a similar philosophy of accepting the things you cannot change; for example, Stoics, Buddhists, Alcoholics Anonymous, and victims of oppression.
@@ -51,11 +52,14 @@ Overall, this was a worthwhile read. I’d summarize the content by saying that 
 
 ## Cons
 * The book could be tighter by removing some of the opening motivation and some repetition. For some people, the repetition may strengthen the message but I found myself saying, “Okay, I get it.”
-* I found a few of the lessons to be contradictory. Some of the people in the examples are praised for action and some for inaction. For example, the overwhelming German Blitzkrieg attack worked for a long time before it failed, and the book points out the failure instead of the success; later, a general splits his forces and wins the battle in an extremely risky maneuver--here, the over-commitment is held up as the right decision while it was the wrong move for Germans (after it failed). In another example, Rockefeller is praised for not investing money early in his career; however, I felt other stories pushed hard for action. One anecdote about Steve Jobs said he was uncompromising and refused to take no for an answer when developing a mouse while a different Jobs anecdote shows him compromising (where he is a pragmatic craftsman). Lincoln is praised for his emotion while Rockefeller is praised for his complete lack thereof. Amelia Earhart’s right move was to take an insulting job as the token woman but Rubin “Hurricane” Carter’s Stoic move involved refusing to let anyone put him down. The lesson I took away was, “history is written by the victor” rather than, “stoicism prevails.” 
+* I found a few of the lessons to be contradictory. Some of the people in the examples are praised for action and some for inaction. For example, the overwhelming German Blitzkrieg attack worked for a long time before it failed, and the book points out the failure instead of the success; later, a general splits his forces and wins the battle in an extremely risky maneuver--here, the over-commitment is held up as the right decision while it was the wrong move for Germans (after it failed). In another example, Rockefeller is praised for not investing money early in his career; however, I felt other stories pushed hard for action. One anecdote about Steve Jobs said he was uncompromising and refused to take no for an answer when developing a mouse while a different Jobs anecdote shows him compromising (where he is a pragmatic craftsman). Lincoln is praised for his emotion while Rockefeller is praised for his complete lack thereof. Amelia Earhart’s right move was to take an insulting job as the token woman but Rubin “Hurricane” Carter’s Stoic move involved refusing to let anyone put him down. The lesson I took away was, “history is written by the victor” rather than, “stoicism prevails.”
 
 ---
+
 # Reference
+
 ## Table of Contents
+
 ### Part I: Perception
 * The discipline of perception
 * Recognize your power
@@ -102,4 +106,3 @@ Overall, this was a worthwhile read. I’d summarize the content by saying that 
 [TedX talk by Ryan Holiday](https://www.youtube.com/watch?v=e2Zq2VWvmW4)
 
 [Lifehacker Review](http://lifehacker.com/the-obstacle-is-the-way-the-right-mindset-for-finding-1665117695)
-
