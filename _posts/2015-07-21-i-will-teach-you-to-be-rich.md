@@ -7,7 +7,7 @@ author: Seth + Nick
 ---
 {% include JB/setup %}
 
-We read [I Will Teach You To Be Rich by Ramit Sethi]().
+We read [I Will Teach You To Be Rich by Ramit Sethi](http://www.amazon.com/dp/0761147489/ref=sr_1_1?tag=6blog-20).
 
 #Nick
 
